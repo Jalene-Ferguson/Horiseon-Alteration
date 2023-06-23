@@ -84,17 +84,7 @@ p {
     background-color: #2589bd;
 }
 
-benefit{
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-benefit{
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -113,20 +103,8 @@ benefit{
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Instead of three image seetings there is one for all three */
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -160,7 +138,7 @@ benefit{
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+   max-height: 200px;
 }
 
 .online-reputation-management img {
