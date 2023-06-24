@@ -1,2 +1,16 @@
 # Horiseon-Alteration
-I changed this code for total efficiency from where it originally started. HTML and Css was altered to work best with the least amount of code needed.
+
+## Description
+This project aims to alteration an existing codebase to improve its maintainability, performance, and overall quality. In this repository, you'll find the refactored code, along with the necessary documentation to understand the changes made. The original codebase for this project was in dire need of refactoring due to various issues, including code duplication, poor organization, lack of modularity, and outdated dependencies. The goal of this refactor was to address these concerns, resulting in a more maintainable and efficient codebase.
+
+## Installation
+N/A
+
+## Useage
+
+
+## License
+MIT License
+
+## Screenshot
+![alt text](./assets/images/_Users_jalene._Documents_UCF_homework_Horiseon-Alteration_index.html.png)
