@@ -7,7 +7,7 @@ This project aims to alteration an existing codebase to improve its maintainabil
 N/A
 
 ## Useage
-
+https://jalene-ferguson.github.io/Horiseon-Alteration/
 
 ## License
 MIT License
